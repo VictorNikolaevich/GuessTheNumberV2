@@ -2,4 +2,4 @@
 ***
 ##### Схема работы программы
 
-![](https://i.ibb.co/CKwsgFC/Untitled-Workspace-2.png)
+![](https://i.ibb.co/80rq4xV/Untitled-Workspace-3.png)
