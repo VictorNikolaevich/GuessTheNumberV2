@@ -13,6 +13,7 @@
 		8450086A2748F3D20002A8A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845008682748F3D20002A8A5 /* Main.storyboard */; };
 		8450086C2748F3D70002A8A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8450086B2748F3D70002A8A5 /* Assets.xcassets */; };
 		8450086F2748F3D70002A8A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8450086D2748F3D70002A8A5 /* LaunchScreen.storyboard */; };
+		845008772748F91F0002A8A5 /* ApplicationBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845008762748F91F0002A8A5 /* ApplicationBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8450086B2748F3D70002A8A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8450086E2748F3D70002A8A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		845008702748F3D70002A8A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		845008762748F91F0002A8A5 /* ApplicationBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				845008622748F3D20002A8A5 /* AppDelegate.swift */,
 				845008642748F3D20002A8A5 /* SceneDelegate.swift */,
 				845008662748F3D20002A8A5 /* ViewController.swift */,
+				845008762748F91F0002A8A5 /* ApplicationBrain.swift */,
 				845008682748F3D20002A8A5 /* Main.storyboard */,
 				8450086B2748F3D70002A8A5 /* Assets.xcassets */,
 				8450086D2748F3D70002A8A5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				845008672748F3D20002A8A5 /* ViewController.swift in Sources */,
+				845008772748F91F0002A8A5 /* ApplicationBrain.swift in Sources */,
 				845008632748F3D20002A8A5 /* AppDelegate.swift in Sources */,
 				845008652748F3D20002A8A5 /* SceneDelegate.swift in Sources */,
 			);
