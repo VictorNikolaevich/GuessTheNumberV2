@@ -2,4 +2,6 @@
 ***
 ##### Схема работы программы
 
-![](https://i.ibb.co/80rq4xV/Untitled-Workspace-3.png)
+Игра называется "Угадай число".
+
+![](https://thumb.cloud.mail.ru/weblink/thumb/xw1/rRpn/kvwyBnu1L)
